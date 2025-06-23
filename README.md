@@ -26,6 +26,9 @@
 12. COMP3431 – Robotic Software Architectures
 13. COMP3131 – Programming Languages and Compilers
 14. COMP4920 – Professional Issues and Ethics in Information Technology
+15. COMP3231 – Operating systems
+16. COMP9313 - Big Data
+17. COMP3900 - Computer Science Project
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=G04J&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
