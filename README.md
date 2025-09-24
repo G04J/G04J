@@ -29,6 +29,8 @@
 15. COMP3231 – Operating systems
 16. COMP9313 - Big Data
 17. COMP3900 - Computer Science Project
+18. COMP9417 - Machine Learning and Data Mining
+19. COMP9517 - Computer Vision 
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=G04J&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
