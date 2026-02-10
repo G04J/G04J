@@ -1,6 +1,6 @@
 **About Me – Gul Jain** 
 
--  **Final year Computer Science student** at UNSW  
+-  **Recent Graduate of Computer Science** at UNSW  
 -  **Passionate about AI & ML** (since *before* ChatGPT blew up!)  
 -  **Always eager to learn new things** & pick up new skills  
 -  **Love coding** – whether it’s solving problems, building projects, or just experimenting!
